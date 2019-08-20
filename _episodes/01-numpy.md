@@ -45,8 +45,7 @@ Any Python interpreter can be used as a calculator:
 ~~~
 {: .output}
 
-This is great but not very interesting.
-To do anything useful with data, we need to assign its value to a _variable_.
+This is great but to do anything useful with data, we need to assign its value to a _variable_.
 In Python, we can [assign]({{ page.root }}/reference/#assign) a value to a
 [variable]({{ page.root }}/reference/#variable), using the equals sign `=`.
 For example, to assign value `60` to a variable `weight_kg`, we would execute:
